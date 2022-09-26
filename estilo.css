@@ -65,9 +65,6 @@ nav a.active{
   transition: 0.3s;
 }
 /*body*/
-main{
-  height: 74.99vh;
-}
 .subtitle{
   font-size: 23px;
   text-align: center;
