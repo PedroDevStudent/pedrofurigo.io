@@ -213,19 +213,6 @@ footer{
     bottom: 0;
   }
 }
-@media screen and (max-width: 1170px) {
-  *{margin: 0 -6rem;
-  padding: 2rem 6rem;
-}
-}
-
-@media screen and (max-width: 768px) {
-  *{
-  margin: 0 -2rem;
-  padding: 2rem;
-}
-}
-
   /*Contact page */
 :root {
   --primary-color: #010712;
