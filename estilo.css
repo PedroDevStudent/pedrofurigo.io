@@ -96,6 +96,10 @@ img{
 footer{
   margin-top: auto;
 }
+.footer p{
+  color:#ffffff
+
+}
 .container{
   margin:auto;
   height: auto;
@@ -164,7 +168,7 @@ footer{
     position: absolute;
     top: 8vh;
     right: 0;
-    width: 50vw;
+    width: 40vw;
     height: 92vh;
     background-color: #23232e;
     flex-direction: column;
@@ -246,10 +250,12 @@ footer{
   display: flex;
   width: auto;
   max-width: 100px;
-  height: 100px;
+  height: auto;
+  max-height: 120px;
 }
 .right-col {
-  width: 800px;
+  width: auto;
+  max-width: 100vh;
   height: 750px;
   padding: 80px 56px;
   background-color: #ffffff;
@@ -264,6 +270,9 @@ h1 {
   font-size: 40px;
   letter-spacing: 8px;
   font-weight: 300;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
 }
 p {
   font-size: 14.4px;
@@ -277,13 +286,13 @@ label, .description {
   font-size: 10px;
 }
 form {
-  width: 500px;
+  width: 10vh;
   position: relative;
   margin-top: 32px;
   padding: 16px 0;
 }
 input, textarea, label {
-  width: 36vw;
+  width: 40vw;
   display: block;
 }
 p, placeholder, input, textarea {
