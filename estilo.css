@@ -104,10 +104,10 @@ img{
 /*Footer codes */
 footer{
   margin-top: auto;
+  bottom: 0;
 }
 .footer p{
   color:#ffffff
-
 }
 .container{
   margin:auto;
