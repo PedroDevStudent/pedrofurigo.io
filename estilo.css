@@ -68,6 +68,11 @@ nav a.active{
 main{
   height: 74.99vh;
 }
+p{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: justify;
+}
 a{    
   color:#fff;
   text-decoration:none;
@@ -262,11 +267,10 @@ h1 {
   margin-right: auto;
   text-align: justify;
 }
-p {
+.footer p {
   font-size: 14.4px;
   letter-spacing: 1.6px;
   margin: 3.8px 0;
-
 }
 label, .description {
   color: var(--secondary-color);
