@@ -68,11 +68,6 @@ nav a.active{
 main{
   height: 74.99vh;
 }
-p{
-  font-size: 20px;
-  font-family: 'Times New Roman', Times, serif;
-  text-align: justify;
-}
 a{    
   color:#fff;
   text-decoration:none;
@@ -88,9 +83,15 @@ li{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
 }
 article{
-  font-size:18px;
-  text-align: center;
+  color: #000000;
+  font-size: 18px;
   font-family: 'Times New Roman', Times, serif;
+  font-weight: 200px;
+  text-align: justify;
+  padding-left: 2%;
+  padding-right: 2%;
+  text-decoration: none;
+  text-indent: 3%;
 }
 #principal_image{
   text-align: center;
