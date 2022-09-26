@@ -68,6 +68,11 @@ nav a.active{
 main{
   height: 74.99vh;
 }
+.subtitle{
+  font-size: 23px;
+  text-align: center;
+  margin-bottom: 3%;
+}
 a{    
   color:#fff;
   text-decoration:none;
