@@ -196,7 +196,7 @@ footer{
 /*responsive footer*/
 @media(max-width:767px){
   .footer-col{
-    margin-bottom: 10px;
+    margin-bottom: 0;
     bottom: 0;
   }
 }
