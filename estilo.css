@@ -263,7 +263,7 @@ footer{
 .right-col {
   width: auto;
   max-width: 100vh;
-  height: 750px;
+  height: 80vh;
   padding: 80px 56px;
   background-color: #ffffff;
 }
