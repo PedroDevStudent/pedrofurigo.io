@@ -167,11 +167,6 @@ footer{
 @media (max-width: 999px){
   body{
     overflow-x:hidden;
-    height: auto;
-    width: auto;
-    max-height: 951px;
-    max-width: 999px;
-    display: flex;
   }
   .nav-list {
     position: absolute;
