@@ -1,0 +1,6 @@
+RewriteEngine On
+
+Rewrite ^About About.html [NC]
+Rewrite ^Works Works.html [NC]
+Rewrite ^Abilities Abilities.html [NC]
+Rewrite ^Contact Contact.html [NC]
